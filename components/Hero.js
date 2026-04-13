@@ -1,7 +1,7 @@
 'use client'
 import { useEffect, useState } from 'react'
 
-const roles = ['Frontend Developer', 'Next.js Engineer', 'React Specialist', 'UI Craftsman']
+const roles = ['Frontend Developer', 'Software Developer']
 
 export default function Hero() {
   const [roleIndex, setRoleIndex] = useState(0)
@@ -103,9 +103,9 @@ export default function Hero() {
             opacity: 0,
           }}
         >
-          Mahith
+          Mahith V
           <br />
-          <span style={{ color: 'var(--accent)' }}>V.</span>
+          
         </h1>
 
         {/* Typewriter */}

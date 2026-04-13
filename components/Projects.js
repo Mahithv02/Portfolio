@@ -29,7 +29,7 @@ const projects = [
       'Designed intuitive dashboard for casting votes and displaying confirmation status',
       'Added input validation and security checks to prevent duplicate voting',
     ],
-    tags: ['React', 'Browser APIs', 'Face Recognition', 'UI/UX', 'Security'],
+    tags: ['React', 'Browser APIs', 'Face Recognition', 'UI/UX'],
     accent: '#ff6b35',
   },
 ]
@@ -65,7 +65,7 @@ export default function Projects() {
           marginBottom: '64px',
           color: 'var(--text)',
         }}>
-          Selected Projects
+          Projects
         </h2>
 
         <div style={{ display: 'grid', gap: '24px' }}>

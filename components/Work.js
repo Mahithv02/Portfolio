@@ -14,7 +14,7 @@ const experiences = [
       'Designed a role-based Policy & Access Management module with CRUD dashboards.',
       'Integrated frontend with REST APIs handling loading/error states and token-based authentication.',
     ],
-    tags: ['Next.js', 'React', 'Tailwind CSS', 'REST APIs', 'RBAC'],
+    tags: ['Next.js', 'React','Typescript', 'Tailwind CSS', 'REST APIs', 'Git'],
   },
 ]
 
